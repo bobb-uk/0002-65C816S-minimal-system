@@ -1,0 +1,5 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C2,C1";"C_0603_1608Metric_Pad1.08x0.95mm_HandSolder";2;"100nF";;;
+2;"C4,C3";"C_0603_1608Metric_Pad1.08x0.95mm_HandSolder";2;"C";;;
+3;"U1";"PQFP-44_10x10mm_P0.8mm";1;"~";;;
+4;"PL2,PL1,PL3";"ADAM-TECH-PH2RA-20-UA";3;"PH2RA-20-UA";;;
